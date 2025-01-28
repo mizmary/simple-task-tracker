@@ -1,9 +1,9 @@
-import Todo from "./components/Todo"
+import Menu from "./components/Menu"
 
 const App = () => {
   return (
     <div className="bg-cyan-950 grid py-4 h-screen">
-      <Todo></Todo>
+      <Menu></Menu>
     </div>
   )
 }

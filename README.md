@@ -6,11 +6,11 @@
 
 ### Скриншоты
 #### Приложение без списков
-![Без списков]('src/screenshots/empty.png')
+![Без списков](src/screenshots/empty.png)
 #### Списки дел без выбранного списка
-![Списки без выбранного]('src/screenshots/not-opened.png')
+![Списки без выбранного](src/screenshots/not-opened.png)
 #### Открытый список дел
-![Открытый список]('src/screenshots/opened-list.png')
+![Открытый список](src/screenshots/opened-list.png)
 
 
 ### Функционал
